@@ -655,7 +655,7 @@
 	"lives": [{
 		"name": "IPV6",
 		"type": 0,
-		"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/game-maker-ly/mytv/main/233.txt",
 		"playerType": 1
 	}]
 }
