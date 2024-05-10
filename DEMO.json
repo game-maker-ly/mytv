@@ -169,6 +169,7 @@
             "api": "csp_AppTT",
             "timeout": 15,
             "playerType": 1,
+            "searchable": 0,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
