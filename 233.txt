@@ -1,5 +1,5 @@
 湖南,#genre#
-湖南都市高清,http://f504b4.netsite.cc/proxy/1116439121/1116439121.m3u8#http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
+湖南都市高清,http://175.10.228.46:8081/tsfile/live/0018_1.m3u8#http://[2409:8087:5050:20::3023]/000000001000/HD-8000k-1080P-hunandushi/index.m3u8#http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
 湖南卫视高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000035/main.m3u8?IASHttpSessionId=OTT#http://110.179.81.150:8083/udp/239.1.1.28:8028#http://183.237.246.14:9931/tsfile/live/1058_1.m3u8#http://110.178.52.190:8083/udp/239.1.1.28:8028
 湖南电视剧高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
 湖南电影高清,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
@@ -16,7 +16,7 @@
 湖南茶频道,http://php.jdshipin.com:8880/bst.php?id=cpd
 湖南国际HD,http://118.254.158.105:8888/udp/239.76.253.102:9000#http://118.254.158.105:8888/udp/239.76.252.124:9000
 湖南经视,http://tvbox.netsite.cc/proxy/1075467511/1075467511.m3u8
-湖南都市,http://tvbox.netsite.cc/proxy/1116439121/1116439121.m3u8
+湖南都市,http://f504b4.netsite.cc/proxy/1116439121/1116439121.m3u8#http://tvbox.netsite.cc/proxy/1116439121/1116439121.m3u8
 湖南经济,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 湖南娱乐,http://tvbox.netsite.cc/proxy/884645401/884645401.m3u8
 湖南电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8#http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43098/index.m3u8
