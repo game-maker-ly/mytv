@@ -164,3 +164,6 @@ Fight,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+
+电影轮播,#genre#
+测试,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/5105/240/969/5105240969/media/5105240969_5229088474_56.mp4
